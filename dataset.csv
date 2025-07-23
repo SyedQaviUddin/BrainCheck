@@ -1,0 +1,7 @@
+user_id,avg_dwell_time,avg_flight_time,backspace_count,total_time,label
+u001,180,90,2,15.4,alert
+u002,250,160,7,22.1,fatigued
+u003,170,80,1,14.2,alert
+u004,260,170,8,23.5,fatigued
+u005,190,100,3,16.0,alert
+u006,255,165,6,21.8,fatigued 
