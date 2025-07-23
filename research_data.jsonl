@@ -1,0 +1,6 @@
+{"input": [80.91071428571429, 996.2363636363636, 1, 66.467], "prediction": "alert", "confidence": 50.0}
+{"input": [80.87719298245614, 981.3928571428571, 1, 66.907], "prediction": "alert", "confidence": 50.0}
+{"input": [85.41791044776119, 302.24242424242425, 1, 39.792], "prediction": "alert", "confidence": 50.0}
+{"input": [86.82758620689656, 302.0581395348837, 1, 47.713], "prediction": "alert", "confidence": 50.0}
+{"input": [86.84444444444445, 312.0, 2, 49.615], "prediction": "alert", "confidence": 50.0}
+{"input": [78.0, 334.1666666666667, 0, 9.923], "prediction": "alert", "confidence": 68.0}
